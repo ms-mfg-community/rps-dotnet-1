@@ -1,0 +1,10 @@
+- Always generate C# code compatible with .NET 8.
+- Follow our team’s C# coding standards: PascalCase for types/methods, camelCase for variables, and use explicit access modifiers.
+- Add XML documentation comments to all public classes and methods.
+- Use async/await for asynchronous operations.
+- Do not hardcode secrets or sensitive information.
+- Use dependency injection for services and repositories.
+- Validate all user input and handle exceptions gracefully.
+- Write code that is easy to test and follows SOLID principles.
+- Prefer official NuGet packages and ensure compatibility with .NET 8.
+- Organize files according to our project structure: Controllers, Models, Services, etc.
